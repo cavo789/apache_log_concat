@@ -1,6 +1,6 @@
 # Concatenate Apache Logs
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 > Read all apache logs and create a new file with only lines matching a given regex pattern
 
